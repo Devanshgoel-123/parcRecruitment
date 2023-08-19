@@ -88,7 +88,7 @@ li:hover{
         margin: 0;
     }
     #navbar{
-        width: 100%;
+        width: 100vw;
         padding-right: 300px;
     }
     .hamburger.active{
